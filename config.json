@@ -1,0 +1,6 @@
+{
+  "instance_id": "i-0de5465536904b803",
+  "region": "ap-south-1",
+  "pem_key_path": "C:/IP_EC2_KEY/VPS.pem",
+  "ssh_user": "ubuntu"
+}
